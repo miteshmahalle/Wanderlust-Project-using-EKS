@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: bobber2754/wanderlust-frontend-beta:v2.2
+          image: bobber2754/wanderlust-frontend-beta:v2.1
           ports:
             - containerPort: 5173
 ---
